@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abrar944](https://github.com/Abrar944)
 
-- 💬 Ask me about **React.js,Java, Dsa**
+- 💬 Ask me about **React.js,Java, Dsa,Express,JavaScript,Mongo,Api,Json,Node.js**
 
 - 📫 How to reach me **ahmedabrar944@gmail.com**
 
