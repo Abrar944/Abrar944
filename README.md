@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abrar Ahmed</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate AWS Cloud && Devops from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar944&label=Profile%20views&color=0e75b6&style=flat" alt="abrar944" /> </p>
 
 - 🔭 I’m currently working on **Storing Notes-WebApp**
 
-- 🌱 I’m currently learning **DSA, MEARNStack,**
+- 🌱 I’m currently learning **Devops Tools, AWS Solution Architect,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abrar944](https://github.com/Abrar944)
 
-- 💬 Ask me about **React.js,Java,Dsa,Javascript,Node.js,Express,MongoDB,Mysql**
+- 💬 Ask me about ** AWS Services, Devops Tools,CICD Pipeline,React.js,Java,Dsa,Javascript,Node.js,Express,MongoDB,Mysql**
 
 - 📫 How to reach me **ahmedabrar944@gmail.com**
 
